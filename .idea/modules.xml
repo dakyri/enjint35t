@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EngineVibeT35T.iml" filepath="$PROJECT_DIR$/EngineVibeT35T.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AvionicsUtils/avionicsUtils/avionicsUtils.iml" filepath="$PROJECT_DIR$/../AvionicsUtils/avionicsUtils/avionicsUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vibeT35t/app.iml" filepath="$PROJECT_DIR$/vibeT35t/app.iml" />
+    </modules>
+  </component>
+</project>

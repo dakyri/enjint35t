@@ -1,0 +1,3 @@
+include ':vibeT35t'
+include ':avionicsUtils'
+project(':avionicsUtils').projectDir = new File(settingsDir, '../AvionicsUtils/avionicsUtils')
